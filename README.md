@@ -1,5 +1,5 @@
-- 👋 Hi, #  Zenith Assets
-
+- 👋 Hi, This is Zenith Assets.
+  
 🧠 Decentralized poet  
 🛰️ CS50 explorer  
 🌌 Web3 whisperer
