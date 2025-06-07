@@ -1,4 +1,4 @@
-- 👋 Hi, This is Zenith Assets.
+- 👋 Hi, I'm Zenith Assets.
   
 🧠 Decentralized poet  
 🛰️ CS50 explorer  
